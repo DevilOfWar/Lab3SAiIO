@@ -1,0 +1,13 @@
+/home/devilofwar/RiderProjects/Lab3SAiIO/Lab3SAiIO/bin/Debug/netcoreapp3.1/Lab3SAiIO
+/home/devilofwar/RiderProjects/Lab3SAiIO/Lab3SAiIO/bin/Debug/netcoreapp3.1/Lab3SAiIO.deps.json
+/home/devilofwar/RiderProjects/Lab3SAiIO/Lab3SAiIO/bin/Debug/netcoreapp3.1/Lab3SAiIO.runtimeconfig.json
+/home/devilofwar/RiderProjects/Lab3SAiIO/Lab3SAiIO/bin/Debug/netcoreapp3.1/Lab3SAiIO.runtimeconfig.dev.json
+/home/devilofwar/RiderProjects/Lab3SAiIO/Lab3SAiIO/bin/Debug/netcoreapp3.1/Lab3SAiIO.dll
+/home/devilofwar/RiderProjects/Lab3SAiIO/Lab3SAiIO/bin/Debug/netcoreapp3.1/Lab3SAiIO.pdb
+/home/devilofwar/RiderProjects/Lab3SAiIO/Lab3SAiIO/obj/Debug/netcoreapp3.1/Lab3SAiIO.csprojAssemblyReference.cache
+/home/devilofwar/RiderProjects/Lab3SAiIO/Lab3SAiIO/obj/Debug/netcoreapp3.1/Lab3SAiIO.AssemblyInfoInputs.cache
+/home/devilofwar/RiderProjects/Lab3SAiIO/Lab3SAiIO/obj/Debug/netcoreapp3.1/Lab3SAiIO.AssemblyInfo.cs
+/home/devilofwar/RiderProjects/Lab3SAiIO/Lab3SAiIO/obj/Debug/netcoreapp3.1/Lab3SAiIO.csproj.CoreCompileInputs.cache
+/home/devilofwar/RiderProjects/Lab3SAiIO/Lab3SAiIO/obj/Debug/netcoreapp3.1/Lab3SAiIO.dll
+/home/devilofwar/RiderProjects/Lab3SAiIO/Lab3SAiIO/obj/Debug/netcoreapp3.1/Lab3SAiIO.pdb
+/home/devilofwar/RiderProjects/Lab3SAiIO/Lab3SAiIO/obj/Debug/netcoreapp3.1/Lab3SAiIO.genruntimeconfig.cache

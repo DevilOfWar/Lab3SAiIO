@@ -72,7 +72,7 @@ namespace Lab3SAiIO
             }
             Matrix = newTable.Matrix;
         }
-        private int FindMin()
+        public int FindMin()
         {
             var columnIndex = -1;
             for (var index = 0; index < Matrix[^1].Length - 1; index++)
@@ -85,7 +85,7 @@ namespace Lab3SAiIO
             }
             return columnIndex;
         }
-        private int FindMinDual()
+        public int FindMinDual()
         {
             var lineIndex = -1;
             for (var index = 0; index < Matrix.Length - 1; index++)

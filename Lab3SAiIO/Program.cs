@@ -34,6 +34,10 @@ namespace Lab3SAiIO
             int[] basic = { 2, 3, 4};
             table.ResetOldMatrix();
             table.Simplex(basic, out basic);
+            if (table.FindMin() < 0)
+            {
+                return;
+            }
             var simplexResult = new double[functionCoeff.Length - 1];
             var intResult = true;
             for (var index = 0; index < simplexResult.Length; index++)
@@ -78,6 +82,10 @@ namespace Lab3SAiIO
                 basicList.Add(table.Matrix[0].Length - 2);
                 basic = basicList.ToArray();
                 table.DualSimplex(basic, out basic);
+                if (table.FindMinDual() < 0)
+                {
+                    return;
+                }
                 intResult = true;
                 for (var index = 0; index < simplexResult.Length; index++)
                 {

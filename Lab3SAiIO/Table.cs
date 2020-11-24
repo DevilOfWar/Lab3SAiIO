@@ -154,6 +154,13 @@ namespace Lab3SAiIO
                         lineIndex = index;
                     }
                 }
+
+                if (lineIndex < 0)
+                {
+                    Console.WriteLine("Нет решений.");
+                    basicOut = basic;
+                    return;
+                }
                 Console.WriteLine("Ведущая строка: " + (lineIndex + 1));
                 basic[lineIndex] = columnIndex;
                 var mainElement = Matrix[lineIndex][columnIndex];
@@ -268,6 +275,13 @@ namespace Lab3SAiIO
                     {
                         columnIndex = index;
                     }
+                }
+
+                if (columnIndex < 0)
+                {
+                    Console.WriteLine("Нет решений.");
+                    basicOut = basic;
+                    return;
                 }
                 Console.WriteLine("Ведущий столбец: " + (columnIndex + 1));
                 basic[lineIndex] = columnIndex;
